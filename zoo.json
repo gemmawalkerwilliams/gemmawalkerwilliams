@@ -1,0 +1,32 @@
+[
+    {
+    "eventName": "Bug Day",
+    "eventDesc": "Come and explore the world of insects! Learn all about different type of bugs, how they help the enviroment and hold a spider if you are brave enough! Suitable for ages 6 to 16",
+    "eventDate": "1/10/2021",
+    "eventPrice": "£9.99"
+    },
+    {
+        "eventName": "Wilderness Explorer Camp",
+        "eventDesc": "Learn all about the wild! How you can protect nature and identify different plants and insects!",
+        "eventDate": "6/7/2021",
+        "eventPrice": "£9.99"
+        },
+        {
+            "eventName": "Bird Day",
+            "eventDesc": "Handle a hawk, learn about bird anatomy and how they know how to migrate",
+            "eventDate": "1/9/2021",
+            "eventPrice": "£9.99"
+            },
+            {
+                "eventName": "Feed a lamb",
+                "eventDesc": "Visit the petting zoo and feed a lamb! They sure are hungry, entrance to the zoo included in the event price",
+                "eventDate": "1/4/2021",
+                "eventPrice": "£9.99"
+                },
+                {
+                    "eventName": "Rhonda the Rhino's birthday",
+                    "eventDesc": "Thonda is 6! come and celebrate with her, all visitors to this event get a special party bag with pictures of Rhonda and a stuffed toy",
+                    "eventDate": "1/10/2021",
+                    "eventPrice": "£19.99"
+                    }
+    ]
